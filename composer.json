@@ -1,0 +1,21 @@
+{
+    "name": "kennylepping/articles_web_app",
+    "require": {
+        "phpmailer/phpmailer": "^5.2"
+    },
+    "autoload": {
+
+        "classmap": [
+
+            "classes"
+
+        ]
+
+    },
+    "authors": [
+        {
+            "name": "Kenny Lepping",
+            "email": "kennylepping@gmail.com"
+        }
+    ]
+}
